@@ -58,7 +58,7 @@ vue create demo
 + 安装组件库
 
 ```js
-yarn add itcast-ui
+yarn add ele-ui
 ```
 
 + 全局导入
